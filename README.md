@@ -8,3 +8,15 @@ Extract the files into the same folder as the code.
 
 Run "trainCVAE_pre.py" to train and test the model. 
 
+If you use our paper or code please cite the following: 
+
+```
+ @InProceedings{Yelamarthi_2018_ECCV,
+author = {Kiran Yelamarthi, Sasi and Krishna Reddy, Shiva and Mishra, Ashish and Mittal, Anurag},
+title = {A Zero-Shot Framework for Sketch based Image Retrieval},
+booktitle = {The European Conference on Computer Vision (ECCV)},
+month = {September},
+year = {2018}
+} 
+```
+
